@@ -1,0 +1,14 @@
+body {
+  background-color: #FFBE98;
+}
+
+h1 {
+  font-family: helvetica;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: courier;
+  font-size: 20px;
+}
